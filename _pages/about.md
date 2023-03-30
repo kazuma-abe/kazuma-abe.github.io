@@ -20,13 +20,17 @@ social: true  # includes social icons at the bottom of the page
 <p><font size="6">about</font></p>
 
 <!--color="#8a2be2"-->
-Kazuma Abe is a 2nd-year master student at University of Tsukuba, Japan. His research interests are the applied probability and the stochastic analysis. Especially, he is interested in applying the quantitive approaches to a Queueing system. His current goal is to find the phynomenon which is difficult to understand intuitively and explain it clearly. This website is managed and operated by him.
+I am a second-year master's student at University of Tsukuba in Japan. His research interests lie in applied probability and stochastic analysis, particularly in using quantitative approaches to a queueing system. His current goal is to identify phenomena that are difficult to understand intuitively and explain them clearly by these methods.
 
 <!-- My Ultimate goal is to identify what is acutually happened or not by using the probability theory or new methods! --> 
 
 
 <p><font size="6">educational background</font></p>
-2021-present
+04.2021-present: Master in Policy and Planning sciences, University of Tsukuba, Japan
+
+09.2022-present: Visiting research, Ruhr University Bochum, Germany
+
+04.2017-03.2021: B.S.c in mathematics, Keio University, Japan
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
