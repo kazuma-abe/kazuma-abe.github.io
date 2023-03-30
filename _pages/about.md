@@ -26,11 +26,12 @@ I am a second-year master's student at University of Tsukuba in Japan. His resea
 
 
 <p><font size="6">educational background</font></p>
-04.2021-present: Master in Policy and Planning sciences, University of Tsukuba, Japan
+04.2021-present: Master in Policy and Planning sciences, University of Tsukuba, Japan 
 
-09.2022-present: Visiting research, Ruhr University Bochum, Germany
+09.2022-present: Visiting research, Ruhr University Bochum, Germany 
 
-04.2017-03.2021: B.S.c in mathematics, Keio University, Japan
+04.2017-03.2021: B.S.c in mathematics, Keio University, Japan 
+
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
