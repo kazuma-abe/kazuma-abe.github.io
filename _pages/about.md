@@ -26,6 +26,7 @@ I am a second-year master's student at University of Tsukuba in Japan. His resea
 
 
 <p><font size="6">educational background</font></p>
+
 04.2021-present: Master in Policy and Planning sciences, University of Tsukuba, Japan 
 
 09.2022-present: Visiting research, Ruhr University Bochum, Germany 
