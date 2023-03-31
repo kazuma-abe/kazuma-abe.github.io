@@ -119,9 +119,9 @@ collections:
     output: true
     permalink: /news/:path/
     
-  #projects:
-    #output: true
-    #permalink: /projects/:path/
+  projects:
+    output: false
+    permalink: /projects/:path/
 
 news_limit: 5
 
