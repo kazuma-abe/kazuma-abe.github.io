@@ -77,7 +77,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  If you have any opinions or questions regarding the website, please contact the accounts above!
+  If you have any opinions or questions regarding the website, please contact me!
 
 google_analytics: UA-222746188-1 # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -120,10 +120,10 @@ collections:
     permalink: /news/:path/
     
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
