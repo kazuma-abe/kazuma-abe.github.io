@@ -43,7 +43,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -106,7 +106,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
 #  - name: medium.com
-    #rss_url: https://medium.com/@qriovider/feed
+    #rss_url: https://medium.com/@kazumabe/feed
 
 # -----------------------------------------------------------------------------
 # Collections
