@@ -25,7 +25,7 @@ I am a second-year master's student at University of Tsukuba in Japan. My resear
 <!-- My Ultimate goal is to identify what is acutually happened or not by using the probability theory or new methods! --> 
 
 
-<p><font size="6">educational background</font></p>
+<p><font size="6">education</font></p>
 
 - 04.2021 -- present: Master in Policy and Planning sciences, University of Tsukuba, Japan 
 
