@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: <!-- page -->
 title: <!-- projects -->
 permalink: <!-- /projects/ -->
-description: 
+description: under preparation
 nav: true
 nav_order: 2
 display_categories: <!-- [study, hobby] -->
