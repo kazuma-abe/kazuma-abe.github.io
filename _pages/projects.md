@@ -1,7 +1,7 @@
 ---
-layout: <!-- page -->
+layout: page
 title: <!-- projects -->
-permalink: <!-- /projects/ -->
+permalink: /projects/
 description: under preparation
 nav: true
 nav_order: 2
