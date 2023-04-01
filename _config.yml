@@ -121,7 +121,7 @@ collections:
     output: true
     permalink: /news/:path/
     
-  hhhhhhh:
+  projects:
     output: true
     permalink: /projects/:path/
 
