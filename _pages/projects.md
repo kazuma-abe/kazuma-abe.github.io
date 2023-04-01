@@ -1,11 +1,11 @@
 ---
 layout: page
 title: <!-- projects -->
-permalink: /projects/
+permalink: <!-- /projects/ -->
 description: 
 nav: true
 nav_order: 2
-display_categories: [study, hobby]
+display_categories: <!-- [study, hobby] -->
 horizontal: false
 ---
 
