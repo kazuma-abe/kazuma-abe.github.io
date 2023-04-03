@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p><font size="6">about</font></p>
+<p><font size="6">About</font></p>
 
 <!--color="#8a2be2"-->
 I am a second-year master's student at University of Tsukuba in Japan. My research interests lie in applied probability and stochastic analysis, particularly in quantitative evaluations to stochastic processing networks and stochastic geometry. My current goal is to identify phenomena that are difficult to understand intuitively and explain them clearly by using these methods.
