@@ -31,7 +31,7 @@ I am a second-year master's student at University of Tsukuba in Japan. My resear
 
 - 09.2022 -- present: Visiting research in Mathematics, Ruhr University Bochum, Germany 
 
-- 04.2017 -- 03.2021: B.S.c in Mathematics, Keio University, Japan 
+- 04.2017 -- 03.2021: B.Sc. in Mathematics, Keio University, Japan 
 
 
 
