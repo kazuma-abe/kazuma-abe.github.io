@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   
   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website,  # add your own keywords or leave empty
+keywords: jekyll, jekyll-theme, academic-website  # add your own keywords or leave empty
 
 languages: ["en", "ja"] # the language of your site (for example: en, fr, cn, ru, etc.)
 defaultLang: en
