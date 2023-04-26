@@ -20,14 +20,14 @@ social: true  # includes social icons at the bottom of the page
 <p><font size="6">About</font></p>
 
 <!--color="#8a2be2"-->
-I am a second-year master's student at University of Tsukuba in Japan. My research interests lie in applied probability and stochastic analysis, particularly in quantitative evaluations to stochastic processing networks and stochastic geometry. My current goal is to identify phenomena that are difficult to understand intuitively and explain them clearly by using these methods.
+I am a second-year master's student at University of Tsukuba, Japan. My research interests lie in applied probability and stochastic analysis, particularly in quantitative evaluations to stochastic processing networks and stochastic geometry. My current goal is to identify phenomena that are difficult to understand intuitively and explain them clearly by using these methods.
 
 <!-- My Ultimate goal is to identify what is acutually happened or not by using the probability theory or new methods! --> 
 
 
 <p><font size="6">Education</font></p>
 
-- 04.2021 -- present: Master in Policy and Planning Sciences, University of Tsukuba, Japan 
+- 04.2021 -- present: M.Sc. in Policy and Planning Sciences, University of Tsukuba, Japan 
 
 - 09.2022 -- present: Visiting research in Mathematics, Ruhr University Bochum, Germany 
 
