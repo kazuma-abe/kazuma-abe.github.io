@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <!-- projects -->
+title: 資料 <!-- projects -->
 permalink: /projects/
 description: under preparation
 nav: true
