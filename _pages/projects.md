@@ -2,7 +2,7 @@
 layout: page
 title: 資料 <!-- projects -->
 permalink: /projects/
-description: under preparation
+description: 準備中
 nav: true
 nav_order: 2
 display_categories: <!-- [study, hobby] -->
