@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 資料 <!-- projects -->
+title: materials <!-- projects -->
 permalink: /projects/
-description: 準備中
+description: Under preparation
 nav: true
 nav_order: 2
 display_categories: <!-- [study, hobby] -->
