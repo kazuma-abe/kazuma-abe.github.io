@@ -1,6 +1,6 @@
 ---
 layout: page
-title: materials <!-- projects -->
+title: Materials <!-- projects -->
 permalink: /projects/
 description: Under preparation
 nav: true
