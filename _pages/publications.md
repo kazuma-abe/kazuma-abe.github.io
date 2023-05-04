@@ -21,15 +21,15 @@ nav_order: 1
 1. Abe, K. and Phung-Duc, T., “Asymptotic analysis of modified Erlang-B system with sensing time and stochastic loss of secondary users,” to be presented and published in the Proceedings of Valuetools 2022.--->
 
 <!-- _pages/publications.md -->
-<div class="publications">
-
- ## Refereed Journal Papers 
+<div class="publications"> 
+ 
+<h2>Refereed Journal Papers</h2>
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-## Refereed Papers in Editted Volumes 
+<h2>Refereed Papers in Editted Volumes</h2> 
  
 </div>
