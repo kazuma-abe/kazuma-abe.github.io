@@ -23,13 +23,13 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications"> 
  
-<h2>Refereed Journal Papers</h2>
+<!-- <h2>Refereed Journal Papers</h2> -->
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<h2>Refereed Papers in Editted Volumes</h2> 
+<!-- <h2>Refereed Papers in Editted Volumes</h2> --> 
  
 </div>
