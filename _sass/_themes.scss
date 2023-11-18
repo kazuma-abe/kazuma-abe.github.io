@@ -20,8 +20,8 @@
     display : none;
   }
   .fa-moon {
-    padding-left: 10px;
-    padding-top: 12px;
+    padding-left: 0; /* 10px; */
+    padding-top: 0;  /* 12px; */
     display : block;
   }
 }
@@ -41,8 +41,8 @@ html[data-theme='dark'] {
   --global-card-bg-color: #{$grey-900};
 
   .fa-sun {
-    padding-left: 10px;
-    padding-top: 12px;
+    padding-left: 0; /* 10px; */
+    padding-top: 0; /* 12px; */
     display : block;
   }
   .fa-moon {
