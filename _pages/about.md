@@ -6,7 +6,7 @@ subtitle: <a href='#'> </a>
 
 profile:
   align: right
-  <!--image: prof_pic.jpg-->
+  <!--image: prof_pic.jpg -->
   <!-- address: >
     <p> This image was taken </p>
     <p> in my hometown, </p>
