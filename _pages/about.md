@@ -27,11 +27,11 @@ I am a second-year master's student at University of Tsukuba, Japan. My research
 <p><font size="6">Education</font></p>
 
 - Apr. 2021 -- Sep. 2023: M.Sc. in Policy and Planning Sciences, University of Tsukuba, Japan 
-
 - Sep. 2022 -- Sep. 2023: Visiting research in Mathematics, Ruhr University Bochum, Germany 
-
 - Apr. 2017 -- Mar. 2021: B.Sc. in Mathematics, Keio University, Japan
 
+
+<p><font size="6">Grants</font></p>
 
 <p><font size="6">Awards</font></p>
 - President Award, University of Tsukuba (2023)
