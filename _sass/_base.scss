@@ -201,7 +201,7 @@ blockquote {
 .navbar-toggler {
   .icon-bar {
     display: block;
-    width: 22px;
+    width: 100%;  /* 22px; */
     height: 2px;
     background-color: var(--global-text-color);
     border-radius: 1px;
@@ -385,7 +385,7 @@ footer.sticky-bottom {
   }
 
   .grid-sizer, .grid-item {
-    width: 250px;
+    width: 100%;  /* 250px; */
     margin-bottom: 10px;
   }
 
