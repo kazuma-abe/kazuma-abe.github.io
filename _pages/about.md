@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 -  
 
 
-<h3><b>About</b></h3>
+<h2><b>About</b></h2>
 
 <!--color="#8a2be2"-->
 I am a second-year master's student at University of Tsukuba.
@@ -28,22 +28,22 @@ I am a second-year master's student at University of Tsukuba.
 My research interests lie in applied probability and stochastic analysis, particularly in quantitative evaluations for stochastic processing networks and stochastic geometry. My current goal is to explore the properties of random environments and non-intuitive phenomena. I also aim to explain them clearly by using stochastic models.
 
 <!--
-<h3><b>Research interests</b></h3>
+<h2><b>Research interests</b></h2>
 - Applied Probability
 - Stochastic analysis
 - Stochastic geometry
 -->
 
-<h3><b>Education</b></h3>
+<h2><b>Education</b></h2>
 - Apr. 2021 -- Sep. 2023: M.Sc. in Policy and Planning Sciences, University of Tsukuba, Japan 
 - Sep. 2022 -- Sep. 2023: Visiting research in Mathematics, Ruhr University Bochum, Germany 
 - Apr. 2017 -- Mar. 2021: B.Sc. in Mathematics, Keio University, Japan
 
 
-<h3><b>Grants</b></h3>
+<h2><b>Grants</b></h2>
 - 
 
-<h3><b>Awards</b></h3>
+<h2><b>Awards</b></h2>
 - President Award, University of Tsukuba (2023)
 
 
