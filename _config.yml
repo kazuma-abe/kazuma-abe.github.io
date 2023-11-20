@@ -19,7 +19,7 @@ defaultLang: en
 languageNames:
   en: English
   ja: Japanese
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # ⚛ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://kazuma-abe.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -42,7 +42,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 100%  # 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -78,7 +78,7 @@ strava_userid: 30833235 #strava id
 youtube_username: 
 
 contact_note: >
-  If you have some questions regarding the webpage, please contact me!
+  If you have any questions regarding the webpage, please contact me!
 
 google_analytics: UA-222746188-1 # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -99,7 +99,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname (al-folio)
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
