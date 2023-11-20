@@ -39,8 +39,8 @@ figure, img {
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
-  margin: 0; /* 1.5em 10px; */
-  padding: 0;  /* 0.5em 10px; */
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
   font-size: 1.2rem;
 }
 
@@ -201,7 +201,7 @@ blockquote {
 .navbar-toggler {
   .icon-bar {
     display: block;
-    width: 100%;  /* 22px; */
+    width: 22px;
     height: 2px;
     background-color: var(--global-text-color);
     border-radius: 1px;
