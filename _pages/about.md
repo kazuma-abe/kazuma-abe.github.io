@@ -24,10 +24,12 @@ I am a second-year master's student at University of Tsukuba.
 <!-- where I am fortunate to be advised by Prof. Tuan Phung-Duc. -->
 My research interests lie in applied probability and stochastic analysis, particularly in quantitative evaluations for stochastic processing networks and stochastic geometry. My current goal is to explore the properties of random environments and non-intuitive phenomena. I also aim to explain them clearly by using stochastic models.
 
+<!--
 <p><font size="6">Research interests</font></p>
 - Applied Probability
 - Stochastic analysis
 - Stochastic geometry
+-->
 
 <p><font size="6">Education</font></p>
 - Apr. 2021 -- Sep. 2023: M.Sc. in Policy and Planning Sciences, University of Tsukuba, Japan 
