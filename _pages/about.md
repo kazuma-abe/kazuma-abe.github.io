@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 - 
 -
 
-<p><font size="6">About</font></p>
+<p><font size="5"><b>About</b></font></p>
 
 <!--color="#8a2be2"-->
 I am a second-year master's student at University of Tsukuba.
