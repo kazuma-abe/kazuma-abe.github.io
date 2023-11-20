@@ -34,7 +34,7 @@ My research interests lie in applied probability and stochastic analysis, partic
 - Stochastic geometry
 -->
 
-<p><font size="5"><b>Education</b>></font></p>
+<p><font size="5"><b>Education</b></font></p>
 - Apr. 2021 -- Sep. 2023: M.Sc. in Policy and Planning Sciences, University of Tsukuba, Japan 
 - Sep. 2022 -- Sep. 2023: Visiting research in Mathematics, Ruhr University Bochum, Germany 
 - Apr. 2017 -- Mar. 2021: B.Sc. in Mathematics, Keio University, Japan
