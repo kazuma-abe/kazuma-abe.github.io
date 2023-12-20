@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   
-  padding-bottom: 70px;
+  padding-bottom: 0; /* 70px; */
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
@@ -17,7 +17,7 @@ body {
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
-  padding-top: 56px;
+  padding-top: 0; /* 56px; */
 }
 
 body.sticky-bottom-footer {
