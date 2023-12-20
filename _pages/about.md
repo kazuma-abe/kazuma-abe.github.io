@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 <h2><b>About</b></h2>
 
 <!--color="#8a2be2"--> <!-- 3250*4333 -->
-I am a second-year master's student at University of Tsukuba, where I am fortunate to be advised by Prof. Tuan Phung-Duc. My research interests lie in applied probability and stochastic analysis, particularly in quantitative evaluations for stochastic processing networks and stochastic geometry. My current goal is to explore the properties of random environments and non-intuitive phenomena. I also aim to explain them clearly by using stochastic models.
+I am a second-year master's student at University of Tsukuba, currently working in the research group of Prof. Tuan Phung-Duc. My research interests lie in applied probability and stochastic analysis, particularly in quantitative evaluations for stochastic processing networks and stochastic geometry. My current goal is to explore the properties of random environments and non-intuitive phenomena. I also aim to explain them clearly by using stochastic models.
 
 <!--
 <h2><b>Research interests</b></h2>
