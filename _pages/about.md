@@ -7,7 +7,7 @@ subtitle: <a href='#'> </a>
 profile:
   align: right
   <!--image: prof_pic.jpg -->
-  image: theme.png
+  image: <! -- theme.png -->
   <!-- address: >
     <p> This image was taken </p>
     <p> in my hometown, </p>
