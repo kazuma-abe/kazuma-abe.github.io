@@ -5,7 +5,7 @@ permalink: /projects/
 description: Under preparation
 nav: true
 nav_order: 2
-display_categories: [general]
+display_categories: [general, hobby]
 horizontal: false
 ---
 
