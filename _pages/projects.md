@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Activities
 permalink: /projects/
 description: Under preparation
 nav: true
