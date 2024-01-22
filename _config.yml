@@ -95,6 +95,10 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 pagination:
   enabled: true
 
+related_blog_posts:
+  enabled: true
+  max_related: 5
+
 # Comments
 disqus_shortname: # put your disqus shortname (al-folio)
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
