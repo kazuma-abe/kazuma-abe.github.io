@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sample
-description: 
+description: Under construction
 img:
 importance: 
 category: general
