@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Materials <!-- projects -->
-permalink: /projects/
+permalink: /materials/
 description: Under preparation
 nav: true
 nav_order: 2
