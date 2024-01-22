@@ -117,9 +117,9 @@ collections:
     output: true
     permalink: /news/:path/
     
-  materials:
+  projects:
     output: true
-    permalink: /materials/:path/
+    permalink: /projects/:path/
 
 news_limit: 3
 
