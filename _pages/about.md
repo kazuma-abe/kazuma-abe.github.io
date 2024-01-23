@@ -21,6 +21,9 @@ social: true  # includes social icons at the bottom of the page
 -
 -
 
+<h2><b>Works</b></h2>
+-
+-
 
 <!--
 <h2><b>About</b></h2>
@@ -44,8 +47,6 @@ I am a second-year master's student at University of Tsukuba, currently working 
 <h2><b>Awards</b></h2>
 - President Award, University of Tsukuba (2023)
 -->
-
-<h2><b>Works</b></h2>
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
