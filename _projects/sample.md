@@ -3,6 +3,6 @@ layout: page
 title: Sample
 description: Under construction
 img:
-importance: 
+importance: 1
 category: general
 ---
