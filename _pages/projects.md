@@ -2,7 +2,7 @@
 layout: page
 title: Misc
 permalink: /projects/
-description: Under preparation
+description: 
 nav: true
 nav_order: 2
 display_categories: [general, hobby]
