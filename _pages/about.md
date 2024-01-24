@@ -18,8 +18,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h2><b>Profile</b></h2>
--
--
+- ORCID
+- Google Scholar
+- ResearchGate
 
 <h2><b>Works</b></h2>
 -
